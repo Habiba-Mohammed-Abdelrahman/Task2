@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+   font-family: 'bai jamjuree' , sans-serif;
+}
+header{
+    background-image: url("../imgs/bg-header-desktop.png");
+    background-size: cover;
+    text-align: center;
+    padding-top: 80px;
+}
+header img{
+    width:80px ;
+    height:80px ;
+    margin-bottom: 30px;
+}
+h1{
+    color: #242323;
+}
+p{
+    margin: 20px;
+    color: #B0B0B0;
+}
+button{
+    border-radius: 25px;
+    color: white;
+    padding: 10px 20px;
+    margin: 3px;
+    border: none;
+}
+.button1{
+    background-color: #31CCA7;
+}
+.button2{
+    background-color: #7431CC;
+}
+h2{
+   color:#242323; 
+}
+p{
+    color: #B0B0B0;
+}
+.main1{
+    text-align: center;
+    margin-top: 100px;
+}
+.main2{
+    margin-top: 80px;
+}
+.main2 img{
+    width: 100%;
+    margin-left: -60;
+}
+.main2Img{
+    text-align: left;
+    width: 50%;
+    height: 500px;
+    display: inline-block;
+    margin-right: 5%;
+    vertical-align: middle;
+}
+.h3p{
+    display: inline-block;
+    vertical-align: middle;
+    width: 40%;
+    text-align: left;
+}
+.hp{
+    margin: 30px;
+}
+.main3{
+    text-align: center;
+    margin: 80px;
+    margin-top: 200px;
+}
+.main3 img{
+    margin: 40px auto;
+}
+.main4{
+    text-align: center;
+    margin: 50px 0px;
+}
+.divm4{
+    display: inline-block;
+    vertical-align: top;
+    width: 28%;
+    margin: 0 1%;
+}
+.divm4 img{
+    margin-bottom: 20px;
+}
+.main5{
+     text-align: center;
+     margin-top: 100px;
+     margin-bottom: 80px;
+}
+.divm5{
+    display: inline-block;
+    width: 17%;
+    vertical-align: middle;
+
+}
+.main6{
+    text-align: center;
+    margin-top: 80px;
+}
+.buttons{
+    margin-top: 30px;
+}
+footer{
+    background-color: #f5f6f8;
+    margin-top: 120px;
+    padding:40px 80px ;
+    text-align: left;
+    overflow: hidden;
+}
+.fimg{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 40px;
+}
+h5{
+   color: #242323 ;
+   display: inline-block;
+   margin: 0 25px;
+   vertical-align: middle;
+}
+
+.icon{
+    width:20px ;
+    height: 20px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.icons{
+    float: right;
+    margin-top: 10px;
+}
+
